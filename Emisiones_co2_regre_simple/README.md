@@ -11,7 +11,7 @@ Python 3
 Jupyter Notebook
 Librerías: pandas, numpy, matplotlib, scikit-learn
 Instalación
-Clona el repositorio: git clone https://github.com/williamCastro32/ML_Op_MD.git
+Clona el repositorio
 Instala las dependencias: pip install -r requirements.txt
 
 ## Uso
