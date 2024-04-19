@@ -5,6 +5,9 @@ Este repositorio contiene varios modelos de Machine Learning desarrollados para 
 # **Lista de Proyectos**
 
  - [Emisiones co2 Regresión Simple](https://github.com/williamCastro32/Modelos_ML/tree/main/Emisiones_co2_regre_simple)
+ - [Presios_casas_Reg_Mul](https://github.com/williamCastro32/Modelos_ML/tree/main/Presios_casas_Reg_Mul)
+ - [KNN diabetes clasif](https://github.com/williamCastro32/Modelos_ML/tree/main/KNN_diabetes_clasif)
+   
 
 Clona este repositorio en tu máquina local.
 Navega a la carpeta del proyecto que te interese.
