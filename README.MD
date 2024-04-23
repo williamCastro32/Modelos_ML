@@ -8,6 +8,7 @@ Este repositorio contiene varios modelos de Machine Learning desarrollados para 
  - [Presios_casas_Reg_Mul](https://github.com/williamCastro32/Modelos_ML/tree/main/Presios_casas_Reg_Mul)
  - [KNN diabetes clasif](https://github.com/williamCastro32/Modelos_ML/tree/main/KNN_diabetes_clasif)
  - [Decision tree drug](https://github.com/williamCastro32/Modelos_ML/tree/main/decision_tree_drug)
+ - [REG logistic ChurnData](https://github.com/williamCastro32/Modelos_ML/tree/main/REG_logistica_ChurnData)
    
    
 
