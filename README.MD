@@ -4,12 +4,13 @@ Este repositorio contiene varios modelos de Machine Learning desarrollados para 
 
 # **Lista de Proyectos**
 
- - [Emisiones co2 Regresión Simple](https://github.com/williamCastro32/Modelos_ML/tree/main/Emisiones_co2_regre_simple)
- - [Presios_casas_Reg_Mul](https://github.com/williamCastro32/Modelos_ML/tree/main/Presios_casas_Reg_Mul)
+ - [Regresión Simple Emisiones co2 ](https://github.com/williamCastro32/Modelos_ML/tree/main/Regre_simple_Emisiones_co2)
+ - [Reg Mul Presios casas](https://github.com/williamCastro32/Modelos_ML/tree/main/Presios_casas_Reg_Mul)
  - [KNN diabetes clasif](https://github.com/williamCastro32/Modelos_ML/tree/main/KNN_diabetes_clasif)
  - [Decision tree drug](https://github.com/williamCastro32/Modelos_ML/tree/main/decision_tree_drug)
  - [REG logistic ChurnData](https://github.com/williamCastro32/Modelos_ML/tree/main/REG_logistica_ChurnData)
- - [k Means Cus Clasif](https://github.com/williamCastro32/Modelos_ML/tree/main/k-means_Cus)
+ - [k Means Cus Clasif](https://github.com/williamCastro32/Modelos_ML/tree/main/K-means_Cus)
+ - [Reg tree Boston Housing](https://github.com/williamCastro32/Modelos_ML/tree/main/Reg_tree_Boston_Housing)
    
    
 

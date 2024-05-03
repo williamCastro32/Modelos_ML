@@ -17,3 +17,13 @@ Preprocesamiento de Datos: Se llevaron a cabo pasos como el manejo de valores fa
 Modelado: Se utilizó un modelo de clasificación, como regresión logística, para entrenar el conjunto de datos y realizar predicciones.
 Evaluación del Modelo: Se evaluó el modelo utilizando métricas como precisión, recall, F1-score y matriz de confusión.
 
+## Contacto
+
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile.com/" style="margin-right: 10px;">
+    <img src="./imagenes/in_logo.png" alt="LinkedIn" width="42" height="42">
+  </a>
+  <a href="mailto:willcr32@gmail.com" style="margin-right: 10px;">
+    <img src="./imagenes/gmail_logo.png" alt="Gmail" width="42" height="42">
+  </a>
+</div>

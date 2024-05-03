@@ -22,3 +22,14 @@ Analiza los resultados obtenidos y la precisión del modelo.
 ## Resultados
 El modelo muestra una alta precisión al utilizar variables como el tamaño del motor y el consumo combinado de combustible para predecir las emisiones de CO2 en vehículos. La precisión del modelo se encuentra alrededor del 96.3%, lo que indica un buen ajuste a los datos.
 
+
+## Contacto
+
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile.com/" style="margin-right: 10px;">
+    <img src="./imagenes/in_logo.png" alt="LinkedIn" width="42" height="42">
+  </a>
+  <a href="mailto:willcr32@gmail.com" style="margin-right: 10px;">
+    <img src="./imagenes/gmail_logo.png" alt="Gmail" width="42" height="42">
+  </a>
+</div>
