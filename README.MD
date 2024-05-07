@@ -4,6 +4,8 @@ Este repositorio contiene varios modelos de Machine Learning desarrollados para 
 
 # **Lista de Proyectos**
 
+ **Machine Learning**
+
  - [Regresión Simple Emisiones co2 ](https://github.com/williamCastro32/Modelos_ML/tree/main/Regre_simple_Emisiones_co2)
  - [Reg Mul Presios casas](https://github.com/williamCastro32/Modelos_ML/tree/main/Presios_casas_Reg_Mul)
  - [KNN diabetes clasif](https://github.com/williamCastro32/Modelos_ML/tree/main/KNN_diabetes_clasif)
@@ -11,8 +13,10 @@ Este repositorio contiene varios modelos de Machine Learning desarrollados para 
  - [REG logistic ChurnData](https://github.com/williamCastro32/Modelos_ML/tree/main/REG_logistica_ChurnData)
  - [k Means Cus Clasif](https://github.com/williamCastro32/Modelos_ML/tree/main/K-means_Cus)
  - [Reg tree Boston Housing](https://github.com/williamCastro32/Modelos_ML/tree/main/Reg_tree_Boston_Housing)
+
+  **Machine Learning y Computational Vision**
    
-   
+  - [OpenCV KNN Class Dogs Cats](https://github.com/williamCastro32/Modelos_ML/tree/main/OpenCV_knn_Class_Dogs_Cats)
 
 Clona este repositorio en tu máquina local.
 Navega a la carpeta del proyecto que te interese.
