@@ -16,7 +16,7 @@ Este repositorio contiene varios modelos de Machine Learning desarrollados para 
 
   **Machine Learning y Computational Vision**
    
-  - [OpenCV KNN Class Dogs Cats](https://github.com/williamCastro32/Modelos_ML/tree/main/OpenCV_knn_Class_Dogs_Cats)
+  - [OpenCV KNN Dogs Cats Classif](https://github.com/williamCastro32/Modelos_ML/tree/main/OpenCV_knn_Dogs_Cats_Classif)
 
 Clona este repositorio en tu máquina local.
 Navega a la carpeta del proyecto que te interese.
