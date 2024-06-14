@@ -23,7 +23,7 @@ Navega a la carpeta del proyecto que te interese.
 Abre el archivo .ipynb en Jupyter Notebook.
 Sigue las instrucciones en el notebook para cargar y explorar los datos, entrenar el modelo y evaluar su rendimiento.
 Requisitos
-Python 3.x
+Python 3
 Jupyter Notebook
 Bibliotecas de Python como Pandas, NumPy, Scikit-learn, Matplotlib, etc.
 Contribuciones
